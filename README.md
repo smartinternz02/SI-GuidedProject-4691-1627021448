@@ -1,6 +1,6 @@
 # SI-GuidedProject-4691-1627021448
 
-Loan Status Prediction Using Ibm Watson Machine Learning
+Loan status prediction using exploratory data analysis
 
 DEMO VIDEO LINK
 
