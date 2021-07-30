@@ -1,6 +1,6 @@
 # SI-GuidedProject-4691-1627021448
 
-Loan status prediction using exploratory data analysis
+#Loan status prediction using exploratory data analysis
 
 WEB APPLICATION SCREENSHOTS
 ![1](https://user-images.githubusercontent.com/88151701/127605089-dd3f7034-2742-4aa9-881c-487c50e2d9c1.PNG)
